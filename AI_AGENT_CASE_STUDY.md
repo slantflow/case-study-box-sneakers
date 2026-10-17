@@ -34,6 +34,10 @@ The engineering goals are to:
 
 No unsupported conversion, savings, or response-time metrics are claimed.
 
+## Self-Hosted Customer Service Deployment
+
+The BOX AI engineering approach uses a **self-hosted customer-conversation platform built on Chatwoot** as the messaging and human-support layer. Chatwoot provides the operational inbox; SlantFlow's work concerns the deployment, store integrations, knowledge handling, assistant behavior and handoff controls. The underlying platform is not presented as proprietary technology invented by SlantFlow. Specific production features and current availability must be confirmed before being advertised as live.
+
 ## 3. Solution Components
 
 ### Conversational layer
